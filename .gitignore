@@ -1,0 +1,11 @@
+# temp files
+.DS_Store
+.tmp
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# npm & bower
+/node_modules/
